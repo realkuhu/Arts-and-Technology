@@ -8,6 +8,10 @@ body {
     background: linear-gradient(#4DD0E1 30%, #E040FB 100%);
 }
 
+.music_img{
+    padding-right: 50px;
+}
+
 .profile {
     width: 250px;
     margin-bottom: 50px;
